@@ -5,7 +5,7 @@ import { useState } from "react";
 import { WINNING_COMBINATIONS } from "./WINNING_COMBINATION.jsx";
 import GameOver from "./components/GameOver.jsx";
 
-//comment
+
 const initialGameBoard = [
   [null, null, null],
   [null, null, null],
